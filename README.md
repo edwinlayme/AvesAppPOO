@@ -1,5 +1,5 @@
 # AvesAppPOO
-![Captura](https://user-images.githubusercontent.com/80547642/173161747-b49a9253-7de5-4ea1-9c9b-91eeffcd0293.JPG)
+![Captura](https://user-images.githubusercontent.com/80547642/173162542-f1f4686e-3a82-4336-b2f1-4b3bf6098b94.JPG)
 
 Aplicacion .NET
  - Programacion Orientado a Objetos.
