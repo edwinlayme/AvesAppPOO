@@ -1,0 +1,74 @@
+[
+  {
+    "codigo": 448844,
+    "especie": 0,
+    "familia": 3,
+    "nombre": "Buitre",
+    "edad": 3,
+    "peso": 2.6,
+    "grupo": 0
+  },
+  {
+    "codigo": 684799,
+    "especie": 0,
+    "familia": 5,
+    "nombre": "Aguila calva",
+    "edad": 1,
+    "peso": 2.8,
+    "grupo": 0
+  },
+  {
+    "codigo": 654694,
+    "especie": 3,
+    "familia": 3,
+    "nombre": "Cigueña",
+    "edad": 2,
+    "peso": 3.3,
+    "grupo": 0
+  },
+  {
+    "codigo": 421496,
+    "especie": 3,
+    "familia": 1,
+    "nombre": "Grulla",
+    "edad": 2,
+    "peso": 2.6,
+    "grupo": 0
+  },
+  {
+    "codigo": 782280,
+    "especie": 4,
+    "familia": 3,
+    "nombre": "Gallina",
+    "edad": 1,
+    "peso": 2.8,
+    "grupo": 0
+  },
+  {
+    "codigo": 923633,
+    "especie": 4,
+    "familia": 2,
+    "nombre": "Codorniz",
+    "edad": 2,
+    "peso": 0.8,
+    "grupo": 0
+  },
+  {
+    "codigo": 835845,
+    "especie": 5,
+    "familia": 2,
+    "nombre": "Pato",
+    "edad": 2,
+    "peso": 2.4,
+    "grupo": 0
+  },
+  {
+    "codigo": 776672,
+    "especie": 5,
+    "familia": 1,
+    "nombre": "Cisne",
+    "edad": 1,
+    "peso": 2.8,
+    "grupo": 0
+  }
+]

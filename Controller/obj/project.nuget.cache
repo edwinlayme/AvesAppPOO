@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvKqyFvEA8gdUzItpoa0xZaLSMiTesy0tIcTIZmNVV37i6+sKZKtd37mPo5AIJDRNf7OOnOJyjn+3pIvI3jsYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\source\\repos\\AvesAppPOO\\Controller\\Controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

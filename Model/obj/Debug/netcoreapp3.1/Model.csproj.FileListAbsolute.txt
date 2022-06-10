@@ -1,0 +1,10 @@
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\obj\Debug\netcoreapp3.1\Model.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\obj\Debug\netcoreapp3.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\Administrador\source\repos\AvesAppPOO\Model\obj\Debug\netcoreapp3.1\Model.pdb

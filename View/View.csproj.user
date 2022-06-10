@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Administrador\source\repos\AvesAppPOO\View\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Controls\MyButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\MyTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screen\FrmAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screen\FrmDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screen\FrmEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screen\FrmList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
